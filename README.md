@@ -19,4 +19,4 @@ This repo is part of the FunFams pipeline as an intermediate step before FunFHMM
 
 The eMMA version of FunFHMMER can be found at [funfhmmer-emma](https://github.com/UCL/cath-funfhmmer/tree/funfhmmer-emma)
 
-See the GeMMA [Wiki](https://github.com/UCL/cath-gemma/wiki) for documentation on GEMMA and check out the step-by-step walkthrough [here](https://github.com/bordin89/eMMA/blob/main/step-by-step-walkthrough.md).
+See the GeMMA [Wiki](https://github.com/UCL/cath-gemma/wiki) for documentation on GEMMA and check out the step-by-step walkthrough [here](https://github.com/UCLOrengoGroup/eMMA/blob/main/step-by-step-walkthrough.md)
