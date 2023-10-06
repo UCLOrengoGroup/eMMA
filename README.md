@@ -13,7 +13,7 @@ The key change allows to use distances from pLM embeddings or structural distanc
 - Revised protocol to use MMseqs2 instead of CD-HIT. 
 - Python CLI generating SGE or local jobs
 - embedding distances or 1/bitscore distances from Foldseek as data source for functional relationships
-- Faster, low memory footprint. 
+- Faster, low memory footprint. (i.e. For the HUPS Superfamily (3.40.50.620) 22 hours to 6 hours).
 
 This repo is part of the FunFams pipeline as an intermediate step before FunFHMMER. 
 
